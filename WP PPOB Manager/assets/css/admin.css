@@ -1,0 +1,42 @@
+.wppob-summary {
+    padding: 10px 0;
+}
+.wppob-summary p {
+    margin: 5px 0;
+    font-size: 14px;
+}
+.wppob-summary strong {
+    color: #0073aa;
+}
+
+/* Form styling */
+.wppob-form-container {
+    max-width: 500px;
+    margin: 20px 0;
+}
+.wppob-form .form-group {
+    margin-bottom: 15px;
+}
+.wppob-form label {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+}
+.wppob-form input,
+.wppob-form select {
+    width: 100%;
+    padding: 8px;
+    border: 1px solid #ddd;
+    border-radius: 4px;
+}
+.wppob-btn {
+    background: #0073aa;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.wppob-btn:hover {
+    background: #005177;
+}
